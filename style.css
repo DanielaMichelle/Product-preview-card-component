@@ -105,6 +105,10 @@ html {
     align-items: center;
 }
 
+.card__content .card__content-button:hover {
+    background-color: hsl(96.43deg 46.67% 11.76%);
+}
+
 .card__content .card__content-button svg {
     margin-right: 10px;
 }
